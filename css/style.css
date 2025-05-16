@@ -1,0 +1,14 @@
+body {
+
+}
+
+.bg-box {
+    width: 1000px;
+    height: 600px;
+    background-color: green;
+    background-image: url("../imgs/central-home.webp"),
+                      url("../imgs/donuts-right.webp"),
+                      url("../imgs/down-grass.webp"),
+                      url("../imgs/hedgehog-left.webp"),
+                      url("../imgs/lamp-up.webp");
+}

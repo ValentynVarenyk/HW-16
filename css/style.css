@@ -6,6 +6,9 @@ body {
     width: 1000px;
     height: 600px;
     background-color: green;
+    background-repeat: no-repeat, repeat-y, repeat-x, repeat-y, repeat-x;
+    background-size: auto, 30px, 250px, 30px, 40px;
+    background-position: center, right, bottom, left, top;
     background-image: url("../imgs/central-home.webp"),
                       url("../imgs/donuts-right.webp"),
                       url("../imgs/down-grass.webp"),
